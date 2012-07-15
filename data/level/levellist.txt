@@ -1,0 +1,10 @@
+BabySteps.map 0
+ShadowBlocks.map 1
+LittleHelp.map 1
+FirstSpikes.map 1
+SomeSpikes.map 1
+Tricky.map 1
+Jumper.map 1
+FreeFall.map 1
+Control.map 1
+Tower.map 1
